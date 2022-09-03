@@ -7,7 +7,6 @@ Description for my project which is an examination system.
   - Built With
   - Getting Started
         - Installation
-  - Usae 
   - Contact
 ## About the project
 
